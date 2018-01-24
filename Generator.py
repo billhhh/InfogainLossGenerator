@@ -18,14 +18,14 @@ def main():
         H[0, 0] = fp_N;
         H[1, 1] = 1 - fp_N;
 
-        print("Positive probs: " + fp_N);
-        print("Negative probs: " + 1 - fp_N);
+        print("Positive probs: " + str(fp_N));
+        print("Negative probs: " + str(1 - fp_N));
     else:
         H[0, 0] = fp_N/total_N;
         H[1, 1] = (total_N-fp_N)/total_N;
 
-        print("Positive probs: " + fp_N/total_N);
-        print("Negative probs: " + (total_N-fp_N)/total_N);
+        print("Positive probs: " + str(fp_N/total_N));
+        print("Negative probs: " + str((total_N-fp_N)/total_N));
 
     blob = caffe.io.array_to_blobproto(H.reshape((1, 1, L, L)))
     with open('infogainH.binaryproto', 'wb') as f:
