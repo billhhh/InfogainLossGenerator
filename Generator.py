@@ -12,8 +12,8 @@ def main():
     print("Total num: " + str(total_N));
 
     H = np.eye(L, dtype='f4')
-    H[0, 0] = total_N/float(p_N);
-    H[1, 1] = total_N / (total_N-float(p_N));
+    H[0, 0] = float(p_N)/total_N;
+    H[1, 1] = (total_N-float(p_N))/total_N;
 
     blob = caffe.io.array_to_blobproto(H.reshape((1, 1, L, L)))
     with open('infogainH.binaryproto', 'wb') as f:
