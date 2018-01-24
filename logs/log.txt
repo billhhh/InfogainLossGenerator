@@ -1,0 +1,69 @@
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.1019014
+Total num: 78468.0
+Positive probs: 0.1019014
+Negative probs: 0.8980986
+
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.02485089
+Total num: 78468.0
+Positive probs: 0.02485089
+Negative probs: 0.97514911
+
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.1180226
+Total num: 78468.0
+Positive probs: 0.1180226
+Negative probs: 0.8819774
+
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.1773206
+Total num: 78468.0
+Positive probs: 0.1773206
+Negative probs: 0.8226794
+
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.05082326
+Total num: 78468.0
+Positive probs: 0.05082326
+Negative probs: 0.94917674
+
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.05575521
+Total num: 78468.0
+Positive probs: 0.05575521
+Negative probs: 0.94424479
+
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.01246367
+Total num: 78468.0
+Positive probs: 0.01246367
+Negative probs: 0.98753633
+
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.0472166
+Total num: 78468.0
+Positive probs: 0.0472166
+Negative probs: 0.9527834
+
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.04158383
+Total num: 78468.0
+Positive probs: 0.04158383
+Negative probs: 0.95841617
+
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.02153744
+Total num: 78468.0
+Positive probs: 0.02153744
+Negative probs: 0.97846256
+
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.0229265
+Total num: 78468.0
+Positive probs: 0.0229265
+Negative probs: 0.9770735
+
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.0147576
+Total num: 78468.0
+Positive probs: 0.0147576
+Negative probs: 0.9852424
+
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.0290436
+Total num: 78468.0
+Positive probs: 0.0290436
+Negative probs: 0.9709564
+
+D:\gitbill\InfogainLossGenerator>python Generator.py 0.00183514
+Total num: 78468.0
+Positive probs: 0.00183514
+Negative probs: 0.99816486
